@@ -1,6 +1,6 @@
 This repository contains the code used for the paper:
 
-Pricing Asian Options with Correlators
+# Pricing Asian Options with Correlators
 
 by Silvia Lavagnini
 
