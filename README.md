@@ -4,7 +4,7 @@ Pricing Asian Options with Correlators
 
 by Silvia Lavagnini
 
-e derive a series expansion by Hermite polynomials for the price of an 
+We derive a series expansion by Hermite polynomials for the price of an 
 arithmetic Asian option in a one-dimensional setting. This series requires 
 the computation of moments and correlators of the underlying price process, but 
 for a polynomial jump-diffusion, these are given in closed form, hence no numerical 
